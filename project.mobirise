@@ -47,7 +47,7 @@
     "uniqCompNum": 4,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "sitemapSwitcher": true,
     "siteUrl": "https://galacticoslinux.github.io",
     "sitemapSwitcherAuto": "on",
